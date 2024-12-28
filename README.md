@@ -23,7 +23,7 @@ The dataset is custom and covers Pakistan's history, geography, political econom
   - ![Chatbot Conversations Sample](gui_sample.png)
 
 ## File Descriptions
-- **`chatbot.py`**: Main script for deploying the RAG-based chatbot.
+- **`LLM_RAG_Model.py`**: Main script for deploying the RAG-based chatbot.
 - **`gui.py`**: Script to run gui.
 - **`data/`**: Contains subfolders for Pakistan-specific data (history, geography, etc.).
 
