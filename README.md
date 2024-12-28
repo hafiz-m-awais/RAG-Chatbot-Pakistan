@@ -15,7 +15,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** chatbot using
 - Hugging Face Models
 
 ## Dataset
-The dataset is custom and covers Pakistan's history, geography, political economy, culture, tourism, education, and sports. It is stored in the `data/` folder.
+The dataset is custom and covers Pakistan's history, geography, political economy, culture, tourism, education, and sports. It is stored in the `data.zip`.
 
 ## Results
 - **Performance**: The chatbot provides real-time responses with high accuracy and efficiency.
